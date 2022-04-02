@@ -61,6 +61,6 @@ $RECICLAJE.BIN/
 *.lnk
 
 # Archivos a excluir en el TP2 31/2/2022
-.exe
-.obj
-.tds
+*.exe
+*.obj
+*.tds
