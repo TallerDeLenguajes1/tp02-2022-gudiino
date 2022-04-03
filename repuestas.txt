@@ -1,1 +1,13 @@
 Repuestas a las preguntas de TP2
+****repuesta preguntas punto 2-f
+1 CASO OCURRIDO
+El archivo no se pudo vizualizar en la carpeta clonada del repositorio
+El archivo se creo fuera de la carpeta.
+2do CASO TRAS EMPEZAR DE NUEVO
+El archivo se pudo vizualizar en la carpeta clonada del repositorio
+
+****repuesta preguntas punto 2-f
+La creacion del archivo para las repuestas aparecen sobre la rama principal, la rama opcion_2 queda fuera de linea
+
+****repuesta preguntas punto 2-f
+las ramas se unieron quedando una linea con todos los cambios que se realizaron tanto en la principal como en la secundaria
